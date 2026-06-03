@@ -22,7 +22,7 @@ Senior Data Scientist & AI/ML Engineer based in Luxembourg. I work across the fu
 
 ### Research
 
-17+ publications · 460+ citations · [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) · [Medium](https://medium.com/@kocyigit.emre.30)
+17+ publications · 460+ citations · [Google Scholar](https://scholar.google.com/citations?user=3rwgb7YAAAAJ&hl=en&oi=ao) · [Medium](https://medium.com/@kocyigit.emre.30)
 
 ---
 
