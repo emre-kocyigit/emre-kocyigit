@@ -8,7 +8,7 @@ Senior Data Scientist & AI/ML Engineer based in Luxembourg. I work across the fu
 
 ### What I'm building
 
-- 🔒 **[EnclaveCode](https://github.com/emre-kocyigit/enclavecode)** — local-first, privacy-preserving CLI with local LLMs *(coming soon)*
+- 🔒 **[InclaveCode](https://github.com/emre-kocyigit/inclave)** — local-first, privacy-preserving CLI with local LLMs *(coming soon)*
 - 🕵️ **[Dark Pattern Detector](https://github.com/emre-kocyigit/dark-pattern-detector)** — multimodal LLM tool from my ACM FAccT 2025 paper *(coming soon)*
 - 🎣 **[Phishing Detection](https://github.com/emre-kocyigit/phishing-website-detection-content-based)** — end-to-end ML pipeline, 33 stars
 
